@@ -1,0 +1,6 @@
+[submodule "esp-idf"]
+	path = esp-idf
+	url = https://github.com/espressif/esp-idf.git
+[submodule "ESP32_MP3_Decoder"]
+	path = ESP32_MP3_Decoder
+	url = https://github.com/MrBuddyCasino/ESP32_MP3_Decoder.git
