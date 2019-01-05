@@ -1,2 +1,14 @@
 = ESP 32 web radio
 This project contains everything that is needed to build the esp32 web radio
+
+== Prerequisites
+
+See/execute prereqs.sh and install prerequisites
+
+== Configure / Build / Flash
+====
+cd ESP32_MP3_Decoder
+make menuconfig
+make 
+make flash
+====
