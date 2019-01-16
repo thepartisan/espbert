@@ -1,0 +1,4 @@
+.git*
+esp-idf*
+ESP32_MP3_Decoder*
+xtensa-esp32-elf*

@@ -1,2 +1,5 @@
 /xtensa-esp32-elf
 /xtensa-esp32-elf-linux64.tar.gz
+/project/build
+sdkconfig.ci
+sdkconfig.old
